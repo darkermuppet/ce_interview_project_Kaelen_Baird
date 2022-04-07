@@ -1,0 +1,15 @@
+test1: deletions of some of the prepositions and words (line 17).
+test2: only the beggining 3 words (line 1).
+test3: last four words (line 38).
+test4: the first three last four words (line 53).
+test5: the fith to seventh words (line 65).
+test6:
+test7:
+test8:
+test9:
+test10:
+test11:
+test12:
+test13:
+test14:
+test15:

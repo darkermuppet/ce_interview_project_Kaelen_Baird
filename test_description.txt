@@ -1,0 +1,15 @@
+test1: deletions of some of the prepositions and words (line 17).
+test2: only the beggining 3 words (line 1).
+test3: last four words (line 38).
+test4: the 0:3 && :4 words (line 53).
+test5: the 5:7 words (line 65).
+test6: the 3:6 words with mispellings (line 129).
+test7: 1:3 && 6:7 words (line 32).
+test8: line 41 with some words from line 42.
+test9: line 68 with some words from line 69.
+test10: 0:5 words mispelled (line 1).
+test11: line 14 mispelled with two words from 16.
+test12: 3 && 8:10 words (line 27).
+test13: 0:6 words but the names are in the wrong order (line 45).
+test14: 4:6 words with mispellings (line 61).
+test15: 2 && 6 words (line 78).
